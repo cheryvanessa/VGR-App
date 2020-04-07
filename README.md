@@ -85,6 +85,7 @@ Here's a Wireframe of implemented user stories:
 <img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Wireframes%20(Updated).jpg?raw=true' title='Wireframes' width='' alt='Wireframes' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+< img src = 'http://g.recordit.co/zx5TE68UCm.gif
 
 
 ### Networking
